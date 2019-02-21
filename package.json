@@ -1,0 +1,21 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "kavya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "server": {
+    "baseDir": "./testApp"
+  }
+}
